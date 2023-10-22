@@ -1,0 +1,10 @@
+password: passwordtest
+
+emails:
+j.cole@mail.com
+sticky.finger@mail.com
+waiian@mail.com
+fkj@mail.com
+sica@mail.com
+mac.mafia@mail.com
+jonathan@mail.com
